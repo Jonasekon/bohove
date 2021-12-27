@@ -1,0 +1,138 @@
+/* CSS Document */
+
+.bohove-text{
+     color: #47f5ac;
+     text-align: center;
+     font-size: 100px;
+     font-family: sans-serif;
+
+}
+
+
+
+
+
+
+
+button {
+        
+         background-color:#47f5c7;
+         margin: 20px;
+         margin-top: 140px;
+         font-size: 48px;
+         border: 2px solid black;
+         padding-left: 20px;
+         padding-right: 40px;
+         
+         
+
+}
+
+
+
+
+.list {
+
+text-align: center;
+}
+
+
+
+
+a:hover {
+
+text-decoration: none;
+color: #0390fc;
+
+}
+
+
+
+a {
+
+
+text-decoration: none;
+color: #47b8ff;
+}
+
+
+.jupiter-text{
+font-size: 50px;
+
+}
+
+
+
+
+
+
+.zeus-text{
+font-size: 50px;              
+}
+
+
+
+
+.jupiter{
+ font-size: 25px;
+color: #24248a;
+
+
+
+}
+
+
+
+
+
+.olympane-text{
+ font-size: 50px;
+color: #000fff;
+
+
+
+}
+
+
+
+
+.Zeus{
+ font-size: 25px;
+ color: #24248a;
+}
+
+
+
+
+
+
+.Olymp{
+ font-size: 25px;
+ color: #2fed7b;
+
+
+
+
+}
+
+
+
+
+
+.velkatrojka-text{
+font-size: 50px;
+
+
+
+
+}
+
+
+
+
+.uvod-text{
+font-size:50px;
+
+
+
+}
